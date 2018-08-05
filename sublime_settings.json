@@ -1,0 +1,51 @@
+{
+	"added_words":
+	[
+		"Github",
+		"namespace",
+		"startup",
+		"counterparty",
+		"Suade",
+		"online",
+		"1st",
+		"Undrawn",
+		"counterparties",
+		"undrawn",
+		"codebase",
+		"",
+		"kickstarted",
+		"Ubuntu",
+		"Google",
+		"ubuntu",
+		"performant",
+		"analytics",
+		"leveraging",
+		"leverages",
+		"virtualisation",
+		"username",
+		"suade"
+	],
+	"auto_complete": true,
+	"class": "tab_label",
+	"color_scheme": "Packages/User/SublimeLinter/OneDark (Flake8Lint) (SL).tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"dpi_scale": 1.25,
+	"draw_centered": false,
+	"expand_tabs_on_save": true,
+	"font.face": "Ubuntu",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Predawn",
+		"Vintage"
+	],
+	"rulers":
+	[
+		79
+	],
+	"sublimelinter": false,
+	"tab_size": 4,
+	"theme": "OneDarkMaterial.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "auto"
+}
